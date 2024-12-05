@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 A
 B
 C
 D
 G
+E
+=======
+F
+>>>>>>> cool-new-feature
 E
